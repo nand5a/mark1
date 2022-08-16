@@ -1,70 +1,99 @@
-# Getting Started with Create React App
+<h1 align="center">Nome do Projeto</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center"> 
+<img src="https://github.com/nand5a/mark1/blob/master/src/logo.svg" width="300px">
+</div>
 
-## Available Scripts
+## Descrição do Projeto
+<p align="center">Escrever uma breve descrição</p>
 
-In the project directory, you can run:
+## Status do Projeto
 
-### `npm start`
+<p> Informar qual é o status atual do projeto </p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h4 align="center"> 
+	🚧  Autenticação 🌊 Em construção...  🚧
+</h4>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Bibliotecas usadas
 
-### `npm test`
+<p> Inserir lista das bibliotecas usadas nos projetos </p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* biblioteca 1
+* biblioteca 2
+* etc
 
-### `npm run build`
+## Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p> Listar quais são as funcionalidades da aplicação e dar check nas que já estão prontas</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
+- [ ] etc
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Pré-requisitos 
 
-### `npm run eject`
+<p> Explicação sobre como rodar o projeto </p>
+<p> Exemplo: </p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 🎲 Rodando o Back End (servidor)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+# Clone este repositório
+$ git clone <https://github.com/tgmarinho/nlw1>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw1
 
-## Learn More
+# Vá para a pasta server
+$ cd server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Instale as dependências
+$ npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
 
-### Code Splitting
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Tecnologias
 
-### Analyzing the Bundle Size
+<p> Listar todas as ferramentas usadas no projeto: </p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### Making a Progressive Web App
+- [JavaScript](https://www.javascript.com/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Links
 
-### Advanced Configuration
+<p> Inserir links externos que estão relacionados ao projeto de alguma forma </p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Exemplo:
 
-### Deployment
+* Link do heroku
+* Link do deploy
+* etc
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Contribuidores
 
-### `npm run build` fails to minify
+<p> Listar a equipe do projeto </p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<table>
+  <tr>
+    <td align="center"><a href="https://fluxoconsultoria.poli.ufrj.br/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55673442?v=4" width="100px;" alt=""/><br /><sub><b>Victória de Souza</b></sub></a><br /><a href="https://fluxoconsultoria.poli.ufrj.br/" title="Fluxo Consultoria">🌊</a></td>
+  <tr>
+    <td align="center"><a href="https://fluxoconsultoria.poli.ufrj.br/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92770101?v=4" width="100px;" alt=""/><br /><sub><b>PH</b></sub></a><br /><a href="https:https://fluxoconsultoria.poli.ufrj.br/" title="Rocketseat">🌊</a></td>
+    <td align="center"><a href="https://fluxoconsultoria.poli.ufrj.br/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97253990?v=4" width="100px;" alt=""/><br /><sub><b>Fernanda</b></sub></a><br /><a href="https://fluxoconsultoria.poli.ufrj.br/" title="Rocketseat">🌊</a></td>
+    <td align="center"><a href="https://fluxoconsultoria.poli.ufrj.br/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92528252?v=4" width="100px;" alt=""/><br /><sub><b>Sales</b></sub></a><br /><a href="https://fluxoconsultoria.poli.ufrj.br/" title="Rocketseat">🌊</a></td>
+    <td align="center"><a href="https://fluxoconsultoria.poli.ufrj.br/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91763680?v=4" width="100px;" alt=""/><br /><sub><b>Luiz</b></sub></a><br /><a href="https://fluxoconsultoria.poli.ufrj.br/" title="Rocketseat">🌊
+  </tr>
+</table>
