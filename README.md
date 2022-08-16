@@ -28,7 +28,7 @@
 <p> Listar quais são as funcionalidades da aplicação e dar check nas que já estão prontas</p>
 <p> Inserir link da documentação do projeto no Notion </p>
 
-[Notion](https://www.javascript.com/](https://www.notion.so/109de6d33d8f41a0a08dd7f8ca5db58a?v=579c18847e184b9fa5b5cd73ee07f7dc))
+- [Notion](https://www.javascript.com/](https://www.notion.so/109de6d33d8f41a0a08dd7f8ca5db58a?v=579c18847e184b9fa5b5cd73ee07f7dc))
 
 - [x] Cadastro de usuário
 - [x] Cadastro de cliente
