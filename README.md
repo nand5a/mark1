@@ -97,3 +97,7 @@ Exemplo:
     <td align="center"><a href="https://fluxoconsultoria.poli.ufrj.br/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91763680?v=4" width="100px;" alt=""/><br /><sub><b>Luiz</b></sub></a><br /><a href="https://fluxoconsultoria.poli.ufrj.br/" title="Rocketseat">🌊
   </tr>
 </table>
+
+## Outros 
+	
+<p> Espaço para deixar qualquer informação relevante que não esteja incluida em nenhum tópico anterior </p>
